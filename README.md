@@ -26,7 +26,6 @@ Service for client authorization and registration, written in Spring Boot.
 ```
 docker-compose up -d --build
 ```
-
 <b>To stop the container</b>
 
 ```
